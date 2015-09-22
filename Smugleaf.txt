@@ -1,7 +1,7 @@
 Vegitation/farms grow faster when he is around
 Very Dapper
 Vegitarian boost
-Random bits of code flies around them, possibly transforming what it hits
+Random bits of code flies around them, possibly transforming what it hits (can be used once a day)
 
 
 Items:
