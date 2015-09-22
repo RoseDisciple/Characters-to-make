@@ -1,0 +1,4 @@
+Can eat mushrooms - cooked or uncooked
+Extra health/sanity/hunger given for veggies
+Sanity boosted when around flowers (doesn't need to pick them)
+Character Specific "Abigail"
